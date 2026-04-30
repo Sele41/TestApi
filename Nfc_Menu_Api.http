@@ -1,0 +1,6 @@
+@Nfc_Menu_Api_HostAddress = http://localhost:5241
+
+GET {{Nfc_Menu_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
